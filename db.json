@@ -1,0 +1,651 @@
+{
+    "object": "list",
+    "results": [
+        {
+            "object": "page",
+            "id": "fb4bf0f6-ae20-49fc-a998-98a0c9a1c121",
+            "created_time": "2021-07-28T07:42:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "f76672bb-5622-41d8-8bee-5a621d439384",
+                        "name": "High",
+                        "color": "red"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "HW7",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "HW7",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/HW7-fb4bf0f6ae2049fca99898a0c9a1c121"
+        },
+        {
+            "object": "page",
+            "id": "fe0a2306-2029-4513-bf56-df3531233a62",
+            "created_time": "2021-07-23T16:12:00.000Z",
+            "last_edited_time": "2021-07-28T07:45:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "3da7f596-1a03-4602-b44b-a132bf629e2f",
+                        "name": "Low",
+                        "color": "green"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Essay Topics",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Essay Topics",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Essay-Topics-fe0a230620294513bf56df3531233a62"
+        },
+        {
+            "object": "page",
+            "id": "4d5ed82d-61e2-4a0d-addb-428bef4ca9d0",
+            "created_time": "2021-07-19T06:14:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "78708b02-0d8f-41b1-a2ea-a3f8bcc89f14",
+                        "name": "Normal",
+                        "color": "yellow"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Synced blocks—notion",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Synced blocks—notion",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Synced-blocks-notion-4d5ed82d61e24a0daddb428bef4ca9d0"
+        },
+        {
+            "object": "page",
+            "id": "2ed36c03-9d4d-4409-b669-274da008f19d",
+            "created_time": "2021-07-18T16:33:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "78708b02-0d8f-41b1-a2ea-a3f8bcc89f14",
+                        "name": "Normal",
+                        "color": "yellow"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Conky",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Conky",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Conky-2ed36c039d4d4409b669274da008f19d"
+        },
+        {
+            "object": "page",
+            "id": "2d5e1a4b-f13e-47ce-abd1-006dc216b7d2",
+            "created_time": "2021-07-13T02:49:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "78708b02-0d8f-41b1-a2ea-a3f8bcc89f14",
+                        "name": "Normal",
+                        "color": "yellow"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Jesu, Joy of man's desiring—Bach",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Jesu, Joy of man's desiring—Bach",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Jesu-Joy-of-man-s-desiring-Bach-2d5e1a4bf13e47ceabd1006dc216b7d2"
+        },
+        {
+            "object": "page",
+            "id": "f5b603cb-fa9d-497f-9a14-46e66366c863",
+            "created_time": "2021-07-12T07:18:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "78708b02-0d8f-41b1-a2ea-a3f8bcc89f14",
+                        "name": "Normal",
+                        "color": "yellow"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Iron Dome",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Iron Dome",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Iron-Dome-f5b603cbfa9d497f9a1446e66366c863"
+        },
+        {
+            "object": "page",
+            "id": "106dabf5-3427-42fb-be6b-f02faad446ae",
+            "created_time": "2021-07-11T13:45:00.000Z",
+            "last_edited_time": "2021-07-28T07:45:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "f76672bb-5622-41d8-8bee-5a621d439384",
+                        "name": "High",
+                        "color": "red"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Housing in toledo",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Housing in toledo",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Housing-in-toledo-106dabf5342742fbbe6bf02faad446ae"
+        },
+        {
+            "object": "page",
+            "id": "f877903d-96e5-4590-87ac-b999b6b61439",
+            "created_time": "2021-07-10T07:16:00.000Z",
+            "last_edited_time": "2021-07-28T07:42:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "f76672bb-5622-41d8-8bee-5a621d439384",
+                        "name": "High",
+                        "color": "red"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Learning the violin",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Learning the violin",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Learning-the-violin-f877903d96e5459087acb999b6b61439"
+        },
+        {
+            "object": "page",
+            "id": "9edaddb4-5e05-496d-adb7-292687554b41",
+            "created_time": "2021-07-10T03:29:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "78708b02-0d8f-41b1-a2ea-a3f8bcc89f14",
+                        "name": "Normal",
+                        "color": "yellow"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Learner's License",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Learner's License",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Learner-s-License-9edaddb45e05496dadb7292687554b41"
+        },
+        {
+            "object": "page",
+            "id": "0c5c64bc-fa90-4869-8b36-c14e211e8aac",
+            "created_time": "2021-07-09T09:28:00.000Z",
+            "last_edited_time": "2021-07-28T07:41:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "f76672bb-5622-41d8-8bee-5a621d439384",
+                        "name": "High",
+                        "color": "red"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Laptop search",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Laptop search",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Laptop-search-0c5c64bcfa9048698b36c14e211e8aac"
+        },
+        {
+            "object": "page",
+            "id": "6b2336bd-795e-4ed7-a8a5-17f6ac973bfb",
+            "created_time": "2021-07-08T09:44:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "78708b02-0d8f-41b1-a2ea-a3f8bcc89f14",
+                        "name": "Normal",
+                        "color": "yellow"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Fugitive—Git plugin for vim",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Fugitive—Git plugin for vim",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Fugitive-Git-plugin-for-vim-6b2336bd795e4ed7a8a517f6ac973bfb"
+        },
+        {
+            "object": "page",
+            "id": "e58b1148-b9d5-4c41-ae51-1b344f2ffdb8",
+            "created_time": "2021-07-05T04:53:00.000Z",
+            "last_edited_time": "2021-07-28T07:42:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "f76672bb-5622-41d8-8bee-5a621d439384",
+                        "name": "High",
+                        "color": "red"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Office",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Office",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Office-e58b1148b9d54c41ae511b344f2ffdb8"
+        },
+        {
+            "object": "page",
+            "id": "06a9822f-abb8-40b2-bfdb-5ef8efbd7002",
+            "created_time": "2021-07-03T14:15:00.000Z",
+            "last_edited_time": "2021-07-28T07:44:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "78708b02-0d8f-41b1-a2ea-a3f8bcc89f14",
+                        "name": "Normal",
+                        "color": "yellow"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Introduction to Special Relativity",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Introduction to Special Relativity",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Introduction-to-Special-Relativity-06a9822fabb840b2bfdb5ef8efbd7002"
+        },
+        {
+            "object": "page",
+            "id": "4e387700-7f04-4bad-9452-201c13c5a132",
+            "created_time": "2021-06-28T13:53:00.000Z",
+            "last_edited_time": "2021-07-28T07:45:00.000Z",
+            "parent": {
+                "type": "database_id",
+                "database_id": "22758adf-0a33-47d3-92d5-0886b5809ef8"
+            },
+            "archived": false,
+            "properties": {
+                "Priority": {
+                    "id": "VWbQ",
+                    "type": "select",
+                    "select": {
+                        "id": "3da7f596-1a03-4602-b44b-a132bf629e2f",
+                        "name": "Low",
+                        "color": "green"
+                    }
+                },
+                "Assignment Name": {
+                    "id": "title",
+                    "type": "title",
+                    "title": [
+                        {
+                            "type": "text",
+                            "text": {
+                                "content": "Databases—mysql",
+                                "link": null
+                            },
+                            "annotations": {
+                                "bold": false,
+                                "italic": false,
+                                "strikethrough": false,
+                                "underline": false,
+                                "code": false,
+                                "color": "default"
+                            },
+                            "plain_text": "Databases—mysql",
+                            "href": null
+                        }
+                    ]
+                }
+            },
+            "url": "https://www.notion.so/Databases-mysql-4e3877007f044bad9452201c13c5a132"
+        }
+    ],
+    "next_cursor": null,
+    "has_more": false
+}
